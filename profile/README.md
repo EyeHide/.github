@@ -1,10 +1,3 @@
-<img src="https://i.imgur.com/lIRsYiF.png" height=150  align="center" />
+## Repository structure
 
-## Index
-- [People](#people)
-
-## People
-Who is behind this company?
-- [SysWhite](https://github.com/SysWhiteDev)
-- [Resonaceee](https://github.com/Resonanceee)
-- [Peepo-Sama](https://github.com/Peepo-Sama)
+[/aquamares](https://github.com/eyehide/aquamares) - Our installer for HideOS
