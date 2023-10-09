@@ -1,6 +1,3 @@
-# EyeHide™
-The company that aims to bring simplified privacy 👁️❌
-
 <img src="https://i.imgur.com/lIRsYiF.png" height=150  align="center" />
 
 ## Index
